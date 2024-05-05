@@ -8,3 +8,5 @@
 3. Change the the variables to draw the text: Company Name, Address, SKU, Made in China
 
 The script will generate a label ready to print and stick on the product.
+
+Option to do in bulk run ```bulk_label_generator.py```
